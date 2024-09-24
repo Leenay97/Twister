@@ -40,7 +40,7 @@ main {
     background-size: contain;
     background-position: center;
     left: 50%;
-    transform: translateX(-8px);
+    transform: translateX(-50%);
     z-index: 2;
     background-repeat: no-repeat;
 }
